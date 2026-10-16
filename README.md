@@ -12,3 +12,4 @@ This project asks for your name and says hello.
 
 2. Run `python hello.py`
 Edited on Github.com
+Aleeza Idrees, BEIS-06A
